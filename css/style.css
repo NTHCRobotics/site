@@ -5349,7 +5349,7 @@ html [class*='section-'].section-bottom-0 {
 		right: 0;
 		bottom: 0;
 		left: 0;
-		background-color: rgba(255, 255, 255, 0.8);
+		background-color: rgba(0, 0, 0, 0.8);
 		z-index: 1;
 	}
 }
@@ -5362,7 +5362,8 @@ html [class*='section-'].section-bottom-0 {
 
 @media (min-width: 576px) {
 	.bg-image-2 {
-		background-image: url("../images/bg-image-2-1700x257.jpg");
+		/*background-image: url("../images/IMG_2075.JPG");*/
+		background-color: grey;
 	}
 }
 
@@ -6018,6 +6019,7 @@ html.tablet .ui-to-top {
 background-color:rgba(0, 0, 0, 0.8)
 
  }
+
 
 .rd-navbar-main-outer .rd-search .form-wrap .form-label {
 	padding-left: 10px;
