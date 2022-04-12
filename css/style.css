@@ -742,13 +742,12 @@ a[href*='tel'], a[href*='mailto'] {
 .pricing-box {
 	padding: 60px 55px 70px 55px;
 	text-align: center;
-	box-shadow: 10px 10px 5px rgb(116, 118, 119, 0.3);
 }
 
 .pricing-box hr {
 	margin-top: 25px;
 	display: block;
-	border-top: 1px solid rgba(255, 255, 255, 0.1);
+	border-top: 1px solid rgb(255, 255, 255, 0.1);
 }
 
 .pricing-box-tittle {
